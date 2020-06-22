@@ -8,3 +8,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ## Zitat ende
 Ein Zitat:
 > Ein Zitat
+
+<img src="https://i.imgur.com/HmSO0fc.jpg"/>
