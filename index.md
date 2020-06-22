@@ -5,3 +5,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * Punkt 2
 * Punkt 3
 * Punkt 4
+## Zitat ende
+Ein Zitat:
+> Ein Zitat
